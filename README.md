@@ -5,3 +5,4 @@ Add new line again
 New line again 2
 New line again 2
 New line again 3
+Add new line from branch newfitur
